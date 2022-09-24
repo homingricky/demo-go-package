@@ -2,6 +2,6 @@ package demogopackage
 
 import "fmt"
 
-func firstPrint(message string) {
+func FirstPrint(message string) {
 	fmt.Printf("MESSAGE - %v", message)
 }
